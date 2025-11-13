@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="https://imgur.com/aXIQLp8.png" />
+  <img align="center" height="150" src="https://github.com/Gustavo-cha/secret/blob/e41c06c025ab11af4f27a2abc61b345dc1728308/LcPURlE.gif" />
 </div>
 
 <div align="center">
@@ -85,12 +85,7 @@
 
 <div align="center">
   <p align="center">
-      <samp>
-        ♡ <a href="https://rentry.co/kamillymedino">rentry</a> ⊹
-        <a href="https://linktr.ee/kamillyvm1">linktr.ee</a> ⊹
-        <a href="https://bykamillyvm.carrd.co/">carrd.co</a> ⊹
-        <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> 
-      </samp>
+     
   </p>
 </div>
 <br>
@@ -101,9 +96,6 @@
 
 <br>
 
-<div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=kamillyvm&style=flat-square&color=755b25" /></p> 
-</div>
 
 <br>
 <br>
